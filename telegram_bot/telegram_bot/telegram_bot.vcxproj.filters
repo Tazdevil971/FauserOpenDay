@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Serial.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Curl.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{8e2304f4-fb29-4a2c-a538-0dc1c9015691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hpp">
+      <UniqueIdentifier>{8c6db82b-a7d3-4687-ad71-813cbec1a732}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Serial.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Curl.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
