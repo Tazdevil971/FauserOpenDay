@@ -1,4 +1,6 @@
 # Telegram bot
+![schema](https://raw.githubusercontent.com/Tazdevil971/FauserOpenDay/master/schema.png)
+
 Questo è un progetto creato per l'open-day del fauser in data 15/11/2019.
 
 ## Descrizione
